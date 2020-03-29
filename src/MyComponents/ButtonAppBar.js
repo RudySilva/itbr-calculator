@@ -28,7 +28,7 @@ export default function ButtonAppBar() {
       <AppBar position="static">
         <Toolbar className={classes.toolbar}>
           <Typography variant="h6" className={classes.title}>
-            IT.BR Australia - Points Calculator
+            IT.BR Australia test
           </Typography>
         </Toolbar>
       </AppBar>
