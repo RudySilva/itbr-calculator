@@ -31,7 +31,7 @@ export default function ButtonAppBar() {
           <Typography variant="h6" className={classes.title}>
               <img src={logo} alt="Logo" className="App-logo" />
               &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-              IT.BR Australia - Points Calculator.
+              IT.BR Australia - Points Calculator
           </Typography>
         </Toolbar>
       </AppBar>
